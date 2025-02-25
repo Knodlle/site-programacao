@@ -1,2 +1,3 @@
 # site-programacao
-1 site com css e html
+primeiro site com css e html
+nao responsivo por enquanto
