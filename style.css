@@ -108,14 +108,10 @@ input{
 .flex-container{
     display: flex;
     gap: 20px;
-    height:100%;
     justify-content: center;
     align-items: center;
     text-align: center;
-    flex-wrap: wrap;
     padding: 40px;
-    width: 500px;
-    
 }
 
 .title-presentation{
@@ -492,4 +488,5 @@ ul{
         text-align: center;
     }
 }
+
 
