@@ -125,7 +125,8 @@ input{
     background: linear-gradient(120deg, #000000, #2b0144, #5a189a, #9d4edd);
     height: 40vh;
     border-radius: 80px;
-    width: 100%;
+    width: 500px;
+    
 }
 .details-curso{
     display: flex;
@@ -194,7 +195,6 @@ input{
     align-self: center;
     justify-content: center;
     background: linear-gradient(120deg, #000000, #2b0144, #5a189a, #9d4edd);
-
     border-radius: 50px;
     padding: 20px 40px;
     text-align: left;
@@ -464,6 +464,13 @@ ul{
         width: auto;
         
     }
+    .cursos-container{
+        width: 100%;
+    }
+    .cursos-container li{
+        font-size: 25px;
+    }
+
     .searchbar{
         display: none;
         
